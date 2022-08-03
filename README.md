@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+### About Me 🤘
+I am Faizaan, currently studying in a school somewhere in the UAE. I've recently begun coding and thus have a limited knowledge of the various languages, though I am comfotable coding in HTML5, CSS and JavaScript. So far I've worked on 3 major projects with a team, and 2 solo projects.
+- 🔬 I'm currently not working on any website, though if you have an idea, be sure to pass it on.
+- 🏫 I'm learning basic python as part of my high school syllabus.
+- 📫 You can contact me on my spam email: craftduo2006@gmail.com. I might not respond.
+- ⚡ Fun Fact: I like aeroplanes. 
 
-<!--
-**Faizaan-Nasir/Faizaan-Nasir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Goals 🔭
+- 📚 I would like to sepcialise in website and application development in my career as a software developer in the future. 
+- 🤓 I would like to learn application development and python as well as some other modern programming languages. 
+- 👑 I would like to lead a major project in the future. 
