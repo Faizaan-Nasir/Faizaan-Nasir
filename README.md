@@ -10,3 +10,6 @@ I am Faizaan, currently studying in a school somewhere in the UAE. I've recently
 - 📚 I would like to sepcialise in website and application development in my career as a software developer in the future. 
 - 🤓 I would like to learn application development and python as well as some other modern programming languages. 
 - 👑 I would like to lead a major project in the future. 
+
+![Faizaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faizaan-Nasir)
+
