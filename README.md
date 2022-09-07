@@ -1,6 +1,6 @@
 # Hi there 👋
 ### About Me 🤘
-I am Faizaan, currently studying in a school somewhere in the UAE. I've recently begun coding and thus have a limited knowledge of the various languages, though I am comfotable coding in HTML5, CSS and JavaScript. So far I've worked on 3 major projects with a team, and 2 solo projects.
+I am Faizaan, currently studying in a school somewhere in the UAE. I've recently begun coding and thus have a limited knowledge of the various languages, though I am comfortable coding in HTML5, CSS and JavaScript. So far I've worked on 3 major projects with a team, and 2 solo projects.
 - 🔬 I'm currently working on this webpage: https://faizaan-nasir.github.io/Library/, if you have an idea, be sure to pass it on.
 - 🏫 I'm learning basic python as part of my high school syllabus.
 - 📫 You can contact me on my spam email: craftduo2006@gmail.com. I might not respond.
