@@ -11,6 +11,8 @@ I am Faizaan, currently studying in a school somewhere in the UAE. I've recently
 - 🤓 I would like to learn application development and python as well as some other modern programming languages. 
 - 👑 I would like to lead a major project in the future. 
 
+## Skills 🎯
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="margin-bottom: 4px;" height="30px"> 
 
 ![Faizaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faizaan-Nasir)
 
