@@ -1,7 +1,7 @@
 # Hi there 👋
 ### About Me 🤘
 I am Faizaan, currently studying in a school somewhere in the UAE. I've recently begun coding and thus have a limited knowledge of the various languages, though I am comfortable coding in HTML5 (.html), CSS (.css), Python (.py) and JavaScript (.js). So far I've worked on 3 major projects with a team, and 5 solo projects.
-- 🔬 I've participated in the AdventOfCode adventofcode.com and am on my quest to resolve all the problems that it gives to me over the next couple of days.
+- 🔬 I've participated in the AdventOfCode competition and am on my quest to resolve all the problems that it gives to me over the next couple of days.
 - 🏫 I'm learning basic python as part of my high school syllabus.
 - 📫 You can contact me on my email: faizaannasir06@gmail.com. 
 - ⚡ Fun Fact: I like aeroplanes. 
