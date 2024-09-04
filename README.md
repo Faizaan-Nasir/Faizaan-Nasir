@@ -1,4 +1,3 @@
-# Hi there!
 ### About Me ℹ️
 I am Faizaan, a Computer Science and Engineering student at Manipal Institute of Technology, Bengaluru. I comfortably code in the following languages: HTML5 (.html), CSS (.css), Python (.py) and JavaScript (.js). I recently started learning C and am getting fluent with the language. 
 
