@@ -8,7 +8,7 @@ I actively look out for hackathons and coding competition where I can solve prob
 ### Background and Contact 📞
 I have attained my Senior School Diploma from Delhi Private School, Sharjah, UAE. I am currently in my first year of studies for my bachelor's degree at MIT, Bengaluru. You can reach out to me through my email: faizaannasir06@gmail.com.
 
-## Skills 🎯
+### Skills 🎯
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="margin-bottom: 4px;" height="30px"> 
 
 ![Faizaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faizaan-Nasir)
