@@ -1,5 +1,5 @@
 ### About Me ℹ️
-I am Faizaan, a Computer Science and Engineering student at Manipal Institute of Technology, Bengaluru. I comfortably code in the following languages: HTML5 (.html), CSS (.css), Python (.py) and JavaScript (.js). I recently started learning C and am getting fluent with the language. 
+I am Faizaan, a Computer Science and Engineering student at Manipal Institute of Technology, Bengaluru. I comfortably code in the following languages: HTML5 (.html), CSS (.css), Python (.py), JavaScript (.js) and C (.c). I have recenty started learning Java and am getting comfortable using it.
 
 Most of my recent work is on app and web development. I am excited to delve deep into the world of AI and machine learning in the coming years. You can view my work on the my [website](https://faizaan-nasir.vercel.app). 
 
