@@ -29,4 +29,12 @@ A sophomore at Manipal Institute of Technology, Bengaluru. I believe in learning
 ## Contact 📞
 You can reach out to me through my email: faizaannasir06@gmail.com
 
+---
+## GitHub Stats 📊
+![faizaan-nasir's Stats](https://github-readme-stats.vercel.app/api?username=faizaan-nasir&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![faizaan-nasir's Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizaan-nasir&theme=vue-dark&hide_border=true)
+
+![faizaan-nasir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizaan-nasir&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
